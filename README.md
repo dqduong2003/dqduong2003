@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Daniel Dang
 
-🏫 I'm currently doing a Bachelor of Computer Science at Swinburne University of Technology
+🏫 I recently graduated from Swinburne University of Technology with Bachelor of Computer Science.
 
 💻 I'm a passionate data science student with a strong interest in machine learning and artificial intelligence. 
 
