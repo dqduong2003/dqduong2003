@@ -1,7 +1,11 @@
 ### Hi there 👋 I'm Daniel Dang
 
-🏫 I recently graduated from Swinburne University of Technology with Bachelor of Computer Science.
+🏫 I graduated from Swinburne University of Technology with Bachelor of Computer Science (GPA 3.7).
 
-💻 I'm a passionate software engineer with a strong interest in machine learning and artificial intelligence. 
+💻 I'm a passionate Software Engineer specializing in full-stack development (C#, ASP.NET Core, React, SQL) with strong hands-on experience building scalable web applications
 
-📈 I'm constantly seeking new challenges and opportunities to expand my skills and knowledge. My goal is to leverage my expertise in data science and AI to help organizations make data-driven decisions that positively impact their bottom line.
+🧠 I also have a deep interest in Machine Learning and Artificial Intelligence, with experience applying ML techniques to real-world datasets to improve system performance and accuracy.
+
+🚀 I'm constantly seeking opportunities to grow my skills, tackle challenging problems, and contribute to projects that make a real-world impact. Whether it's optimizing web systems, developing smart solutions, or building interactive platforms, I love bringing ideas to life through clean, efficient code.
+
+🔗 Feel free to check out some of my projects below — and let’s connect!
