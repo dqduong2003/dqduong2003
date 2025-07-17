@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Daniel Dang
 
-🏫 I'm currently pursuing Master of Applied Artificial Intelligence at Deakin University.
+🏫 I'm currently pursuing Master of Applied Artificial Intelligence (Professional) at Deakin University.
 
 💻 I'm a passionate Software Engineer specializing in full-stack development (C#, ASP.NET Core, React, SQL) with strong hands-on experience building scalable web applications
 
