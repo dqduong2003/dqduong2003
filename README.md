@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Daniel Dang
 
-🏫 I graduated from Swinburne University of Technology with Bachelor of Computer Science (GPA 3.7).
+🏫 I'm currently pursuing Master of Applied Artificial Intelligence at Deakin University.
 
 💻 I'm a passionate Software Engineer specializing in full-stack development (C#, ASP.NET Core, React, SQL) with strong hands-on experience building scalable web applications
 
